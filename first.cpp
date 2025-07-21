@@ -11,5 +11,5 @@ int main() {
 	cout << "X" << "\n";
 		cin >> X;
 		Y(X);
-	cout << X << endl;
+	cout << X << endl << endl;
 }
